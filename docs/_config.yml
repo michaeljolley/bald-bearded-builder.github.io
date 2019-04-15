@@ -1,0 +1,68 @@
+# General Settings
+name: Michael Jolley
+job_title: 
+email: mike@sparcapp.io
+description: bald. bearded. builder.
+avatar: https://user-images.githubusercontent.com/1228996/48304682-0bb63600-e4e3-11e8-93df-bd23ffe2c49b.png
+favicon: /favicon.ico
+twitter_handler: michaeljolley
+comments:
+  receiver: https://michaeljolley-comments.azurewebsites.net/api/PostComment
+emptyArray: []
+
+# Social Accounts
+social_networks:
+-  { name: twitter, url: 'https://twitter.com/michaeljolley' }
+-  { name: github, url: 'https://github.com/MichaelJolley' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/michaelwjolley' }
+-  { name: twitch, url: 'https://www.twitch.tv/themichaeljolley' }
+
+# Modules Settings
+show_categories: 1
+show_tags: 1
+show_email: 1
+show_rss: 1
+show_comments: 1
+show_menu: 0
+fixed_sidebar: 1
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: '_posts'
+      type: posts
+    values:
+      comments: "true"
+
+# Serving
+url: "https://michaeljolley.com"
+
+# Includes
+include: ["_pages"]
+
+# Outputting
+permalink: /posts/:title/
+category_dir: categories
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Conversion
+markdown: kramdown
+
+# Post Settings
+excerpt_separator: <!--more-->
+
+# Assets Settings
+sass:
+  sass_dir: assets/partials
+  style: compressed
