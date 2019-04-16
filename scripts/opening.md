@@ -31,4 +31,4 @@ Asalaam alaikum | Arabic
 Anyoung haseyo | Korean
 Czesc (chaist) | Polish
 Shalom | Hebrew
-
+Mecca lecca high mecca highny ho | Peewee
