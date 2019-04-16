@@ -8,9 +8,12 @@ This script is our intro to every stream.  A few pieces of information change fr
 
 ```
 `{Hello}`!  My name is Michael Jolley and I'm the bald, bearded, builder.  It is `{current date}` and I'm so happy that you've joined us.
-
-Today we will be working on ... `{discuss goals of the stream here}`
 ```
+
+- [ ] Discuss what we're working on today
+- [ ] Choose a candle to code by
+
+
 
 ---
 
@@ -32,3 +35,4 @@ Anyoung haseyo | Korean
 Czesc (chaist) | Polish
 Shalom | Hebrew
 Mecca lecca high mecca highny ho | Peewee
+Aloha | Hawaiian
