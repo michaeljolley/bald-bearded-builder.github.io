@@ -1,5 +1,5 @@
 # General Settings
-name: Michael Jolley
+name: Bald. Bearded. Builder. with Michael Jolley
 job_title: 
 email: mike@sparcapp.io
 description: bald. bearded. builder.
@@ -14,7 +14,6 @@ emptyArray: []
 social_networks:
 -  { name: twitter, url: 'https://twitter.com/michaeljolley' }
 -  { name: github, url: 'https://github.com/MichaelJolley' }
--  { name: linkedin, url: 'https://www.linkedin.com/in/michaelwjolley' }
 -  { name: twitch, url: 'https://www.twitch.tv/themichaeljolley' }
 
 # Modules Settings
@@ -30,19 +29,19 @@ fixed_sidebar: 1
 defaults:
   -
     scope:
-      path: '_posts'
+      path: '_streams'
       type: posts
     values:
       comments: "true"
 
 # Serving
-url: "https://michaeljolley.com"
+url: "https://baldbeardedbuilder.com"
 
 # Includes
 include: ["_pages"]
 
 # Outputting
-permalink: /posts/:title/
+permalink: /streams/:title/
 category_dir: categories
 
 # Plugins
