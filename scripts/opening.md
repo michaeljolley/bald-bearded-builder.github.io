@@ -6,11 +6,11 @@ This script is our intro to every stream.  A few pieces of information change fr
 
 ## Script
 
-```
+
 `{Hello}`!  My name is Michael Jolley and I'm the bald, bearded, builder.  It is `{current date}` and I'm so happy that you've joined us.
 
 Today we will be working on ... `{discuss goals of the stream here}`
-```
+
 
 ---
 
