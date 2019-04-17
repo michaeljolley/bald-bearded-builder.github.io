@@ -32,7 +32,7 @@ fixed_sidebar: 1
 defaults:
   -
     scope:
-      path: '_streams/*'
+      path: '_posts'
       type: posts
     values:
       comments: "true"
