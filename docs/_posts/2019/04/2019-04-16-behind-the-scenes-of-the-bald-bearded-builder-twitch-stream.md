@@ -8,8 +8,6 @@ comments: true
 tags: [twitch, stream, chatting]
 ---
 
-# Behind the scenes of the bald. bearded. builder. Twitch stream.
-
 ### Today's Candle To Code By
 
 [Village Candle Christmas Tree](https://amzn.to/2Djr7R0)
@@ -18,7 +16,7 @@ tags: [twitch, stream, chatting]
 
 ## Stream Replay Link
 
-[google.com](google.com)
+Due to issues with the stream, our recording was lost.  So no replay for this one.
 
 
 ### Segments
