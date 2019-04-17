@@ -10,12 +10,6 @@ tags: [twitch, stream, chatting]
 
 <img src="{{page.image}}"/>
 
-### Today's Candle To Code By
-
-[Village Candle Christmas Tree](https://amzn.to/2Djr7R0)
-
----
-
 ## Stream Replay Link
 
 Due to issues with the stream, our recording was lost.  So no replay for this one.
@@ -33,6 +27,12 @@ Timestamp | Topic
 00:44 | Stream notes
 01:15 | Bluetooth throat-punched the stream 
 01:40 | RamblingGeek joined us & we totally de-railed with fun
+
+---
+
+### Today's Candle To Code By
+
+[Village Candle Christmas Tree](https://amzn.to/2Djr7R0)
 
 ---
 

@@ -10,12 +10,6 @@ tags: []
 
 <img src="{{page.image}}"/>
 
-### Today's Candle To Code By
-
-{CANDLE GOES HERE}
-
----
-
 ## Stream Replay Link
 
 {YOUTUBE LINK GOES HERE}
@@ -27,6 +21,11 @@ tags: []
 Timestamp | Topic
 --- | ---
 
+---
+
+### Today's Candle To Code By
+
+{CANDLE GOES HERE}
 
 ---
 
