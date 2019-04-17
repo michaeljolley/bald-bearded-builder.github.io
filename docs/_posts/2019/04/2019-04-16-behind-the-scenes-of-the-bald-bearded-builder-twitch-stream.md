@@ -20,6 +20,7 @@ tags: [twitch, stream, chatting]
 
 Due to issues with the stream, our recording was lost.  So no replay for this one.
 
+<!--more-->
 
 ### Segments
 
