@@ -8,7 +8,7 @@ comments: true
 tags: []
 ---
 
-<img src=""/>
+<img src="{{page.image}}"/>
 
 ### Today's Candle To Code By
 
