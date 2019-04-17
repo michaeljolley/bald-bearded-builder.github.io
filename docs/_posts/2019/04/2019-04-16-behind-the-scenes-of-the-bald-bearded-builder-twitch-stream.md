@@ -8,6 +8,8 @@ comments: true
 tags: [twitch, stream, chatting]
 ---
 
+<img src="{% include post.image %}"/>
+
 ### Today's Candle To Code By
 
 [Village Candle Christmas Tree](https://amzn.to/2Djr7R0)
