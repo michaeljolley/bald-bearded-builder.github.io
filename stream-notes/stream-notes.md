@@ -8,6 +8,8 @@ comments: true
 tags: []
 ---
 
+<img src=""/>
+
 ### Today's Candle To Code By
 
 {CANDLE GOES HERE}

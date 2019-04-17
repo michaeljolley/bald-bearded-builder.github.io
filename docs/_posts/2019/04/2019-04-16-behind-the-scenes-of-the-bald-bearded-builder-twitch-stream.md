@@ -8,7 +8,7 @@ comments: true
 tags: [twitch, stream, chatting]
 ---
 
-<img src="{% post.image %}"/>
+<img src="https://user-images.githubusercontent.com/1228996/56236917-5e76b980-6050-11e9-98f2-9fccbf461bd8.png"/>
 
 ### Today's Candle To Code By
 
