@@ -1,3 +1,6 @@
+# System Settings
+timezone: America/New_York
+
 # General Settings
 name: bald. bearded. builder.
 job_title: 
@@ -29,7 +32,7 @@ fixed_sidebar: 1
 defaults:
   -
     scope:
-      path: '_streams'
+      path: '_streams/*'
       type: posts
     values:
       comments: "true"
