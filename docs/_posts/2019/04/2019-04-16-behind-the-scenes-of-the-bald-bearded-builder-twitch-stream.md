@@ -8,6 +8,9 @@ comments: true
 tags: [twitch, stream, chatting]
 ---
 
+1. {{page.image}}
+2. {{post.image}}
+
 <img src="{{page.image}}"/>
 
 ### Today's Candle To Code By
