@@ -20,6 +20,8 @@ tags: []
 
 {YOUTUBE LINK GOES HERE}
 
+<!--more-->
+
 ### Segments
 
 Timestamp | Topic
