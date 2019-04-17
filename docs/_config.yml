@@ -1,13 +1,13 @@
 # General Settings
-name: Bald. Bearded. Builder. with Michael Jolley
+name: bald. bearded. builder.
 job_title: 
 email: mike@sparcapp.io
-description: bald. bearded. builder.
+description: Live streaming software development in C#, JavaScript, IoT & more.
 avatar: https://user-images.githubusercontent.com/1228996/48304682-0bb63600-e4e3-11e8-93df-bd23ffe2c49b.png
 favicon: /favicon.ico
 twitter_handler: michaeljolley
 comments:
-  receiver: https://michaeljolley-comments.azurewebsites.net/api/PostComment
+  receiver: https://bbb-comments.azurewebsites.net/api/PostComment
 emptyArray: []
 
 # Social Accounts
