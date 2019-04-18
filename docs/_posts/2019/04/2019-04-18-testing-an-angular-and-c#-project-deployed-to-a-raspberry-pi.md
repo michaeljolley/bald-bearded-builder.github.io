@@ -37,12 +37,12 @@ Timestamp | Topic
 
 ## Things we learned
 
-- @jtsom showed us that with the format below you can inject variables into strings like using `$"some text {variable}"` in C# 
+- [@jtsom](https://github.com/jtsom) showed us that with the format below you can inject variables into strings like using `$"some text {variable}"` in C# 
 ```JS
 `some text ${variable}`
 ```
-- @parithon directed us to the awesome Peacock extension by John Papa at [https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
-- @parithon shared a link with a GitHub specific markdown cheatsheet: 
+- [@parithon](https://github.com/parithon) directed us to the awesome Peacock extension by John Papa at [https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+- [@parithon](https://github.com/parithon) shared a link with a GitHub specific markdown cheatsheet: 
 [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 ## Notes
