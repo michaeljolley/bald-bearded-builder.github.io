@@ -27,7 +27,7 @@ Hola | Spanish | 1
 Bonjour | French | 0
 Salut | French | 0
 Hej (hayd) | Swedish | 0
-Nǐ hǎo | Chinese | 0
+Nǐ hǎo | Chinese | 1
 Konnichiwa | Japanese | 1
 Guten Tag | German | 0
 Asalaam alaikum | Arabic | 0
