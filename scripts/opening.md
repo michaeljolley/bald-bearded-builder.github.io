@@ -7,7 +7,7 @@ This script is our intro to every stream.  A few pieces of information change fr
 ## Script
 
 
-`{Hello}`!  Welcome to the bald, bearded, builder show.  Today is `{current date}` and I'm so happy that you've joined us.  
+`{Hello}`!  Welcome to the bald, bearded, builder.  Today is `{current date}` and I'm so happy that you've joined us.  
 
 
 - [ ] Discuss what we're working on today
