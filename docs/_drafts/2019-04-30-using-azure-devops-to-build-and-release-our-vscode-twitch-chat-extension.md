@@ -41,6 +41,8 @@ Timestamp | Topic
 - New emotes are available.  We currently have Hype, Derp & Candle
 - Heroine interviews on Sunday afternoons
 - Work offstream on `!theme {theme name}`
+  - Available commands
+  - Whisper throttling
 
 
 ## Goals
