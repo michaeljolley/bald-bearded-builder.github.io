@@ -29,7 +29,7 @@ Salut | French | 0
 Hej (hayd) | Swedish | 0
 Nǐ hǎo | Chinese | 1
 Konnichiwa | Japanese | 1
-Guten Tag | German | 0
+Guten Tag | German | 1
 Asalaam alaikum | Arabic | 0
 Anyoung haseyo | Korean | 0
 Czesc (chaist) | Polish | 0
