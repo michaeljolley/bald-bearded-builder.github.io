@@ -21,7 +21,7 @@ tags: [twitch, stream, iot, brandon-satrom, baldy-and-bugs, hardware]
 Timestamp | Topic
 --- | ---
 00:05 | Kick it off
-00:14 | [@BrandonSatrom]() joins us to talk IoT hardware
+00:14 | [BrandonSatrom](https://github.com/bsatrom) joins us to talk IoT hardware
 01:32 | Roll the credits with Lauryn
 
 

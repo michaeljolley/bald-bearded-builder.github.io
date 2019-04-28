@@ -38,7 +38,7 @@ Timestamp | Topic
 
 ## Things we learned
 
-- [@ElectricHavoc]() shared a link for a fancy shell to use when playing with WSL: [https://cmder.net/](https://cmder.net/)
+- [@ElectricHavoc](https://github.com/ElectricHavoc) shared a link for a fancy shell to use when playing with WSL: [https://cmder.net/](https://cmder.net/)
 - [@ksivamuthu](https://github.com/ksivamuthu) shared his [Peacock Twitch Extension](https://marketplace.visualstudio.com/items?itemName=ksivamuthu.vscode-peacock-twitch-client)
 
 ## Notes
