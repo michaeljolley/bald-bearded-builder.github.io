@@ -3,7 +3,7 @@ layout: post
 date: 2019-04-16 18:00
 title: ""
 image: 
-description: 
+description: ""
 comments: true
 tags: []
 ---
@@ -18,8 +18,10 @@ tags: []
 
 ### Segments
 
-Timestamp | Topic
---- | ---
+| Timestamp | Topic
+| --- | ---
+| 00:00 | Kick it off
+
 
 ---
 
@@ -55,6 +57,12 @@ Timestamp | Topic
 
 ### Cheers
 
-Compadre | Bits
---- | ---
- | 
+| Compadre | Bits
+| --- | ---
+|  | 
+
+### Raids
+
+| Marauder | Accomplices
+| --- | ---
+|  | 
