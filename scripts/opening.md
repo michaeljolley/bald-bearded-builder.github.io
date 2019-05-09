@@ -36,4 +36,4 @@ Each stream we'll open with hello in a different language.  For reference, here 
 | Czesc (chaist) | Polish | 0
 | Shalom | Hebrew | 0
 | Mecca lecca high mecca highny ho | Pee-Wee | 0
-| Aloha | Hawaiian | 0
+| Aloha | Hawaiian | 1
