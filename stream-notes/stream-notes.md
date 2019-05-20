@@ -18,9 +18,9 @@ tags: []
 
 ### Segments
 
-| Timestamp | Topic
-| ---       | ---
-| 00:00     | Kick it off
+| Timestamp | Topic             |
+| ---       | ---               |
+| 00:00     | Kick it off       |
 
 
 ---
@@ -57,12 +57,12 @@ tags: []
 
 ### Cheers
 
-| Compadre      | Bits
-| ---           | ---
-|               | 
+| Compadre      | Bits      |
+| ---           | ---       |
+|               |           |
 
 ### Raids
 
-| Marauder      | Accomplices
-| ---           | ---
-|               | 
+| Marauder      | Accomplices   |
+| ---           | ---           |
+|               |               |
