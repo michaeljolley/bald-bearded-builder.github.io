@@ -2,7 +2,7 @@
 layout: post
 date: 2019-05-21 18:00
 title: "Pull Requests, Issues, Deploy our extension?  Then we play with IoT"
-image:
+image: https://user-images.githubusercontent.com/1228996/58136884-64366080-7bf5-11e9-84d8-b805ed2bde16.png
 description: "We're reviewing pull requests & issues from the community on our repositories and then working with our Particle based IoT project to water our planter boxes auto-magically."
 comments: true
 tags: [twitch, stream, iot, vs-code, extension, particle, c++, javascript]
