@@ -52,6 +52,8 @@ patterns of the device LED
 that you can not currently delete a mesh network from your account
 - Someone shared the [Waveshare 7in HDMI touch screen display](https://amzn.to/2M8pooA) for possible use in our project to
 notify the family of streaming/on call/available system
+- [varlabel](https://twitch.tv/varlabel) suggested monitoring flow to our planters via volume rather than
+sensing moisture level to stop watering.  `water density / volume * pore space`
 
 
 ## Things to Review & Notes
@@ -59,8 +61,6 @@ notify the family of streaming/on call/available system
 - [Natalia Tepluhina](https://twitter.com/N_Tepluhina) will be joining us next Sunday, June 2nd, as we
 continue our [Heroines of Javascript](https://www.twitch.tv/themichaeljolley/events) series
 - IO is being delivered Tuesday
-- [varlabel](https://twitch.tv/varlabel) suggested monitoring flow to our planters via volume rather than
-sensing moisture level to stop watering.  `water density / volume * pore space`
 
 ## Goals
 
