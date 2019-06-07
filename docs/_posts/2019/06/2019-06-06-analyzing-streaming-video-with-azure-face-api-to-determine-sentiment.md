@@ -5,7 +5,7 @@ title: "Analyzing streaming video with Azure Face API to determine sentiment"
 image: https://user-images.githubusercontent.com/1228996/59131169-38c2ae00-8937-11e9-86e6-ffbb75b3ac04.png
 description: "We have a web application that allows users to join and communicate via audio/video using Agora.io's WebRTC offerings.  On today's stream we added the ability to scan those incoming streams and send bits to the Azure Face API to determine sentiment and display it on each persons video feed."
 comments: true
-tags: [twitch, stream, azure, agora, ai, machine-learning, face-api]
+tags: [twitch, stream, azure, agora, ai, machine-learning, face-api, sentiment]
 ---
 
 <img src="{{page.image}}"/>
