@@ -34,7 +34,7 @@ tags: [twitch, stream, solder, electronics]
 ## Things we learned
 
 - [roberttables](https://github.com/mtheoryx) showed us the [Head Mount Magnifier](https://amzn.to/31qd6M4) he uses when soldering
-- []
+- [Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook/)
 
 ## Things to Review & Notes
 
