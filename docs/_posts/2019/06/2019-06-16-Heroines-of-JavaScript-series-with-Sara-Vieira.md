@@ -45,7 +45,6 @@ tags: [twitch, stream, heroines, javascript, sara, vieira, interview]
   - [roberttables](https://twitch.tv/roberttables) shared [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 - [roberttables](https://twitch.tv/roberttables) shared [https://docs.docker.com/compose/environment-variables/#the-env_file-configuration-option](https://docs.docker.com/compose/environment-variables/#the-env_file-configuration-option) to use environment variables in docker compose
 - [MajorThorn](https://twitch.tv/majorthorn) shared [https://azure.microsoft.com/en-us/resources/learning-node-js-development](https://azure.microsoft.com/en-us/resources/learning-node-js-development) for learning node.js with Azure
--
 
 
 ## Goals
