@@ -2,7 +2,7 @@
 layout: post
 date: 2019-04-16 18:00
 title: ""
-image: 
+image:
 description: ""
 comments: true
 tags: []
@@ -31,21 +31,20 @@ tags: []
 
 ---
 
-## Things we learned
-
-- 
-
-## Things to Review & Notes
-
-- 
 
 ## Goals
 
-- [ ] 
+- [ ]
+
+
+## Things we learned
+
+-
+
 
 ## Next Steps
 
-- 
+-
 
 ---
 
@@ -53,7 +52,7 @@ tags: []
 
 ### Subscribers
 
-- 
+-
 
 ### Cheers
 
