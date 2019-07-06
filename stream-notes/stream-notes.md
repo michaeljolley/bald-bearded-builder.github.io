@@ -22,7 +22,6 @@ tags: []
 | ---       | ---               |
 | 00:00     | Kick it off       |
 
-
 ---
 
 ### Today's Candle To Code By
@@ -31,18 +30,12 @@ tags: []
 
 ---
 
-
 ## Goals
 
 - [ ]
 
 
 ## Things we learned
-
--
-
-
-## Next Steps
 
 -
 

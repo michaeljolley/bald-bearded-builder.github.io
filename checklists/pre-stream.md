@@ -8,7 +8,6 @@
 - [ ] Setup the green screen
 - [ ] Turn off the room lights
 - [ ] Fire up lighting
-- [ ] Set guitar by desk
 
 
 ###
