@@ -1,18 +1,18 @@
 ---
 layout: post
 date: 2019-07-25 18:07
-title: "undefined"
-image:
-description: ""
+title: "Improving our build process with docker-compose"
+image: https://user-images.githubusercontent.com/1228996/62097313-05701180-b24c-11e9-8e9d-43465db0e2c7.png
+description: "Trying to get our build working via docker-compose, docker build and npm run build."
 comments: true
-tags: [twitch, stream]
+tags: [twitch, stream, docker, docker-compose]
 ---
 
 <img src="{{page.image}}"/>
 
 ## Stream Replay Link
 
-{YOUTUBE LINK GOES HERE}
+[https://youtu.be/aFSPhaymkKo](https://youtu.be/aFSPhaymkKo)
 
 <!--more-->
 
@@ -44,14 +44,6 @@ tags: [twitch, stream]
 
 ## Today's stream brought to you by
 
-### Subscribers
-
-
-### Cheers
-
-| Compadre            | Bits        |
-| ---                 | ---         |
-
 ### Raids
 
 | Marauder            | Accomplices |
@@ -80,7 +72,3 @@ tags: [twitch, stream]
 - [parithon](https://twitch.tv/parithon)
 - [roberttables](https://twitch.tv/roberttables)
 - [D4RKCIDE](https://twitch.tv/d4rkcide)
-
-### Followers
-
-
