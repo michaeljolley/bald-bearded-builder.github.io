@@ -20,6 +20,13 @@ tags: [twitch, stream, heroines, javascript, ali, spittel, interview]
 
 | Timestamp | Topic
 | ---       | ---
+| 00:05     | Kicking it off
+| 00:14     | Interview with Ali Spittel
+| 00:55     | Working to fix issues with our bot
+| 01:32     | Show & tell of Lauryn's recent artwork
+| 01:40     | Joined by [roberttables](https://twitch.tv/roberttables) to fix our docker issues
+| 02:00     | Joined by [parithon](https://twitch.tv/parithon)
+| 04:32     | Wrapping up and raid to [TimBeaudet](https://twitch.tv/timbeaudet)
 
 ---
 
@@ -31,9 +38,8 @@ tags: [twitch, stream, heroines, javascript, ali, spittel, interview]
 
 ### Goals
 
-
-### Things We Learned
-
+- [x] Interview with Ali Spittel
+- [x] Fix our build process with docker-compose and environment variables
 
 ---
 
@@ -41,8 +47,12 @@ tags: [twitch, stream, heroines, javascript, ali, spittel, interview]
 
 ### Subscribers
 
-- [dare_devel_ops](https://twitch.tv/dare_devel_ops) (3 mo) `Gifted`
-- [ashishsinghbaghel](https://twitch.tv/ashishsinghbaghel) `Gifted`
+- [dare_devel_ops](https://twitch.tv/dare_devel_ops) (3 mo)
+- [ashishsinghbaghel](https://twitch.tv/ashishsinghbaghel) `Gifted by roberttables`
+- [C0D3_Monkey](https://twitch.tv/C0D3_Monkey)
+- [code_man_codes](https://twitch.tv/code_man_codes) `Gifted by Clarkio`
+- [littleeblaster](https://twitch.tv/littleeblaster) `Gifted by roberttables`
+- [Clarkio](https://twitch.tv/clarkio) (4 mo)
 
 ### Cheers
 
@@ -81,3 +91,20 @@ tags: [twitch, stream, heroines, javascript, ali, spittel, interview]
 - [ancientcoder](https://twitch.tv/ancientcoder)
 - [parithon](https://twitch.tv/parithon)
 - [RamblingGeek](https://twitch.tv/ramblinggeek)
+
+### Followers
+
+- [IJuneaul](https://twitch.tv/IJuneaul)
+- [misteakkkk](https://twitch.tv/misteakkkk)
+- [Fihen](https://twitch.tv/Fihen)
+- [KevinMAllDay](https://twitch.tv/kevinmallday)
+- [harlyhm](https://twitch.tv/harlyhm)
+- [noobie132](https://twitch.tv/noobie132)
+- [ADARTA](https://twitch.tv/ADARTA)
+- [benjiin](https://twitch.tv/benjiin)
+- [th3r1z](https://twitch.tv/th3r1z)
+- [Coveran](https://twitch.tv/Coveran)
+- [the_hanamo](https://twitch.tv/the_hanamo)
+- [nasserte](https://twitch.tv/nasserte)
+- [kiranhari](https://twitch.tv/kiranhari)
+- [JohnCallaway](https://twitch.tv/johncallaway)
