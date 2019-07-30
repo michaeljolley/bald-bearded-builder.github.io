@@ -2,17 +2,17 @@
 layout: post
 date: 2019-07-28 18:07
 title: "Heroines of JavaScript series: Lauryn & Layla interview Ali Spittel"
-image:
-description: ""
+image: https://user-images.githubusercontent.com/1228996/62097720-719f4500-b24d-11e9-92a9-83918f978f91.png
+description: "As part of our Heroines of JavaScript series, Lauryn &amp; Layla interview Ali Spittel.  "
 comments: true
-tags: [twitch, stream]
+tags: [twitch, stream, heroines, javascript, ali, spittel, interview]
 ---
 
 <img src="{{page.image}}"/>
 
 ## Stream Replay Link
 
-{YOUTUBE LINK GOES HERE}
+[https://youtu.be/ZZpAePibX70](https://youtu.be/ZZpAePibX70)
 
 <!--more-->
 
@@ -81,7 +81,3 @@ tags: [twitch, stream]
 - [ancientcoder](https://twitch.tv/ancientcoder)
 - [parithon](https://twitch.tv/parithon)
 - [RamblingGeek](https://twitch.tv/ramblinggeek)
-
-### Followers
-
-
