@@ -28,7 +28,7 @@ replay: https://youtu.be/-yO-LAG8fLk
 | [02:13]({{page.replay}}?t=7980)       | Eureka moment that fixed stream not generating |
 | [02:49]({{page.replay}}?t=10140)       | Opening a package for the stream |
 | [03:05]({{page.replay}}?t=11100)       | Adding !theme random {dark/light} to VS Code Twitch Themer extension |
-| [04:46]({{page.replay}}?t=17160)       | Wrapping up and raid to (csharpfritz)[https://twitch.tv/csharpfritz]
+| [04:46]({{page.replay}}?t=17160)       | Wrapping up and raid to [csharpfritz](https://twitch.tv/csharpfritz)
 
 ---
 
