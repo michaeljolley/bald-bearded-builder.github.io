@@ -21,7 +21,7 @@ replay: https://youtu.be/-yO-LAG8fLk
 
 | Timestamp | Topic
 | ---       | ---
-| [00:08]({{page.replay}}?t=480)   | Lesson on pronouncing words |
+| [00:08]({{page.replay}}?t=480)   | Kicking it off |
 | [00:48]({{page.replay}}?t=2880)   | Lesson on pronouncing words |
 | [00:52]({{page.replay}}?t=3120)       | Everyone was impressed with the awesome new feature |
 | [00:56]({{page.replay}}?t=3360)       | Adding authentication to GitHub via personal access token |
