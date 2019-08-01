@@ -2,11 +2,11 @@
 layout: post
 date: 2019-08-01 18:08
 title: "Improving our chat bot with some more commands and overlays"
-image:
-description: ""
+image: https://user-images.githubusercontent.com/1228996/62331182-c1b21d80-b480-11e9-87fb-5cc251b7ef91.png
+description: "Adding a new !update command to allow users to update their user profiles that we store from Twitch."
 comments: true
-tags: [twitch, stream]
-replay: 
+tags: [twitch, stream, nodejs, socket-io, docker]
+replay: https://youtu.be/9rNdbd-h6lE
 ---
 
 <img src="{{page.image}}"/>
@@ -21,21 +21,12 @@ replay:
 
 | Timestamp | Topic
 | ---       | ---
-| [0:6]({{page.replay}}?t=function () {
-            return this.isValid() ? this._data[name] : NaN;
-        }) | Kicking it off |
-| [0:8]({{page.replay}}?t=function () {
-            return this.isValid() ? this._data[name] : NaN;
-        }) | audio diagnostics |
-| [0:019]({{page.replay}}?t=function () {
-            return this.isValid() ? this._data[name] : NaN;
-        }) | candle vote - christmas |
-| [0:027]({{page.replay}}?t=function () {
-            return this.isValid() ? this._data[name] : NaN;
-        }) | What the Audio! |
-| [1:019]({{page.replay}}?t=function () {
-            return this.isValid() ? this._data[name] : NaN;
-        }) | twitch goes /r/wholesome |
+| [00:06]({{page.replay}}?t=407.457) | Kicking it off |
+| [00:08]({{page.replay}}?t=528.745) | Trying to fix our audio settings |
+| [00:19]({{page.replay}}?t=1185.723) | candle vote - Christmas |
+| [00:27]({{page.replay}}?t=1632.873) | What the Audio! |
+| [01:19]({{page.replay}}?t=4747.694) | Nate joins us before his nap |
+| [03:09]({{page.replay}}?t=11340) | Wrapping up and raid to [roberttables](https://twitch.tv/roberttables)     |
 
 ---
 
@@ -47,12 +38,10 @@ replay:
 
 ### Goals
 
-
 ### Things We Learned
 
-- [theMichaelJolley](https://twitch.tv/themichaeljolley): teach us how to mod. 
-- [codeman_codes](https://twitch.tv/codeman_codes): shared twitch api info about shutdown of legacy version https://discuss.dev.twitch.tv/t/twitch-api-v3-shutdown-timeline/21931 
-- [IAmNotMyself](https://twitch.tv/iamnotmyself): shows us how to delete a property of a json object https://stackoverflow.com/a/21735614 
+- [codeman_codes](https://twitch.tv/codeman_codes): shared twitch api info about shutdown of legacy version 3 https://discuss.dev.twitch.tv/t/twitch-api-v3-shutdown-timeline/21931
+- [IAmNotMyself](https://twitch.tv/iamnotmyself): shows us how to delete a property of a json object https://stackoverflow.com/a/21735614
 
 ---
 
@@ -60,8 +49,8 @@ replay:
 
 ### Subscribers
 
-- [cpayette](https://twitch.tv/cpayette) (4 mo) `Gifted`
-- [entityadam](https://twitch.tv/entityadam) `Gifted`
+- [cpayette](https://twitch.tv/cpayette) (4 mo)
+- [entityadam](https://twitch.tv/entityadam) `Gifted by cpayette`
 
 ### Cheers
 
@@ -107,4 +96,3 @@ replay:
 - [retro_crt](https://twitch.tv/retro_crt)
 - [phrakberg](https://twitch.tv/phrakberg)
 - [RamblingGeek](https://twitch.tv/ramblinggeek)
-
