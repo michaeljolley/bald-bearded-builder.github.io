@@ -40,8 +40,8 @@ replay: https://youtu.be/9rNdbd-h6lE
 
 ### Things We Learned
 
-- [codeman_codes](https://twitch.tv/codeman_codes): shared twitch api info about shutdown of legacy version 3 https://discuss.dev.twitch.tv/t/twitch-api-v3-shutdown-timeline/21931
-- [IAmNotMyself](https://twitch.tv/iamnotmyself): shows us how to delete a property of a json object https://stackoverflow.com/a/21735614
+- [codeman_codes](https://twitch.tv/codeman_codes): shared twitch api info about shutdown of legacy version 3 at [https://discuss.dev.twitch.tv/t/twitch-api-v3-shutdown-timeline/21931](https://discuss.dev.twitch.tv/t/twitch-api-v3-shutdown-timeline/21931)
+- [IAmNotMyself](https://twitch.tv/iamnotmyself): shows us how to delete a property of a json object [https://stackoverflow.com/a/21735614](https://stackoverflow.com/a/21735614)
 
 ---
 
