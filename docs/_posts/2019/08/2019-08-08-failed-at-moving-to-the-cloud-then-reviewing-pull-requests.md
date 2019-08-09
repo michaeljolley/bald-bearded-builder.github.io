@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2019-08-08 18:08
-title: "Can we move this chat bot to the cloud?  Azure here we come."
-image:
-description: ""
+title: "Failing to move our bot to the cloud so we reviewed PR's"
+image: https://user-images.githubusercontent.com/1228996/62790302-74d9d280-ba90-11e9-94c9-8cca28e33f09.png
+description: "We attempted to get our bot moved to Azure, but after some struggles we spent the afternoon reviewing Pull Requests and merging code."
 comments: true
-tags: [twitch, stream]
-replay:
+tags: [twitch, stream, azure, pull-requests, javascript]
+replay: https://youtu.be/ueUE7cNkch8
 ---
 
 <img src="{{page.image}}"/>
@@ -21,13 +21,13 @@ replay:
 
 | Timestamp | Topic
 | ---       | ---
-| [00:28]({{page.replay}}?t=1683.592) | @CodePhobia credit scene |
-| [00:43]({{page.replay}}?t=2629.709) | @theMichaelJolley tries French! |
-| [01:10]({{page.replay}}?t=4228.447) | talking about David Neals (aka ReverentGeek) crazy artistic talent https://reverentgeek.com/buy-my-stuff/#commission |
-| [02:02]({{page.replay}}?t=7339.804) | showing off the goods |
-| [02:06]({{page.replay}}?t=7583.364) | the knat has gone |
+| [00:05]({{page.replay}}?t=300)      | Kicking it off            |
+| [00:28]({{page.replay}}?t=1683.592) | Showing off [codephobia](https://twitch.tv/codephobia)'s credit scene |
+| [00:43]({{page.replay}}?t=2629.709) | Trying French! |
+| [01:10]({{page.replay}}?t=4228.447) | Talking about David Neals (aka ReverentGeek) crazy artistic talent https://reverentgeek.com/buy-my-stuff/#commission |
+| [02:06]({{page.replay}}?t=7583.364) | the gnat has gone |
 | [02:06]({{page.replay}}?t=7589.759) | RIP gnat |
-| [04:37]({{page.replay}}?t=16638.718) | Credits! |
+| [04:37]({{page.replay}}?t=16638.718) | Roll the credits and raid to [quiltoni](https://twitch.tv/quiltoni) |
 
 ---
 
@@ -39,6 +39,8 @@ replay:
 
 ### Goals
 
+- [ ] Move the chat bot to Azure
+- [x] Review PR's from the community
 
 ---
 
@@ -46,22 +48,18 @@ replay:
 
 ### Subscribers
 
-- [cmjchrisjones](https://twitch.tv/cmjchrisjones) (5 mo) `Gifted`
+- [cmjchrisjones](https://twitch.tv/cmjchrisjones) (5 mo)
 
 ### Cheers
 
 | Compadre            | Bits        |
 | ---                 | ---         |
-| [cmjchrisjones](https://twitch.tv/cmjchrisjones) | 1 |
-| [codeman_codes](https://twitch.tv/codeman_codes) | 2 |
-| [codeman_codes](https://twitch.tv/codeman_codes) | 1 |
-| [cmjchrisjones](https://twitch.tv/cmjchrisjones) | 8 |
-| [codeman_codes](https://twitch.tv/codeman_codes) | 15 |
+| [cmjchrisjones](https://twitch.tv/cmjchrisjones) | 75 |
+| [codeman_codes](https://twitch.tv/codeman_codes) | 18 |
 | [CodingGorilla](https://twitch.tv/codinggorilla) | 25 |
 | [cpayette](https://twitch.tv/cpayette) | 142 |
 | [roberttables](https://twitch.tv/roberttables) | 100 |
 | [RamblingGeek](https://twitch.tv/ramblinggeek) | 50 |
-| [cmjchrisjones](https://twitch.tv/cmjchrisjones) | 66 |
 
 ### Moderators
 
@@ -85,4 +83,3 @@ replay:
 - [codeman_codes](https://twitch.tv/codeman_codes)
 - [Copperbeardy](https://twitch.tv/copperbeardy)
 - [therealcaseyw](https://twitch.tv/therealcaseyw)
-
