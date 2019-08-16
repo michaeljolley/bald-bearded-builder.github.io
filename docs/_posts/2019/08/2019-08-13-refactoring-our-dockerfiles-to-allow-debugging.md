@@ -2,11 +2,11 @@
 layout: post
 date: 2019-08-13 18:08
 title: "Refactoring our IO projects docker files so we can debug our microservices"
-image:
-description: ""
+image: https://user-images.githubusercontent.com/1228996/63198765-5a2fcc80-c041-11e9-94b2-30b096a7fa80.png
+description: "After spending a good bit of time trying to fix issues that allow us to debug against our running containers, we moved on to review pull requests for other projects."
 comments: true
-tags: [twitch, stream]
-replay:
+tags: [twitch, stream, dockerfile, node, javascript]
+replay: https://youtu.be/GKn2y8U0FBY
 ---
 
 <img src="{{page.image}}"/>
@@ -22,7 +22,7 @@ replay:
 | Timestamp | Topic
 | ---       | ---
 | [00:08]({{page.replay}}?t=496.848) | Kicking it off |
-| [00:08]({{page.replay}}?t=529.914) | where's Mike? |
+| [00:08]({{page.replay}}?t=529.914) | Where's Mike? |
 | [00:15]({{page.replay}}?t=948.727) | Candle Winner - Christmas |
 | [00:16]({{page.replay}}?t=968.592) | @theMichaelJolley pretends to work. |
 | [00:16]({{page.replay}}?t=993.914) | @theMichaelJolley shows off his booboo |
@@ -30,11 +30,9 @@ replay:
 | [00:45]({{page.replay}}?t=2733.579) | finally, some code! |
 | [00:54]({{page.replay}}?t=3254.078) | twitch sings |
 | [00:56]({{page.replay}}?t=3373.027) | special guest info |
-| [02:20]({{page.replay}}?t=8411.73) | some text |
-| [03:13]({{page.replay}}?t=11626.177) | aviary |
-| [03:23]({{page.replay}}?t=12213.971) | Kicking it off |
+| [03:13]({{page.replay}}?t=11626.177) | Starting to work on the Aviary project |
 | [03:53]({{page.replay}}?t=14000.475) | its all going off now |
-| [04:09]({{page.replay}}?t=14945.366) | talking about tables! |
+| [04:09]({{page.replay}}?t=14945.366) | Wrapping up and raid to [](https://twitch.tv/callowcreation) |
 
 ---
 
@@ -44,12 +42,9 @@ replay:
 
 ---
 
-### Goals
-
-
 ### Things We Learned
 
-- [roberttables](https://twitch.tv/roberttables): suggested swapping out a candle as a cheer reward 
+- [roberttables](https://twitch.tv/roberttables): suggested swapping out a candle as a cheer reward
 
 ---
 
@@ -57,22 +52,22 @@ replay:
 
 ### Subscribers
 
-- [CopperBeardy](https://twitch.tv/copperbeardy) `Gifted`
-- [JTsom](https://twitch.tv/jtsom) `Gifted`
+- [CopperBeardy](https://twitch.tv/copperbeardy)
+- [JTsom](https://twitch.tv/jtsom)
 - [TheHugoDahl](https://twitch.tv/thehugodahl) (4 mo)
-- [roberttables](https://twitch.tv/roberttables) `Gifted`
-- [LilyHazel](https://twitch.tv/lilyhazel) `Gifted`
-- [veresdave](https://twitch.tv/veresdave) `Gifted`
-- [cmgriffing](https://twitch.tv/cmgriffing) `Gifted`
-- [just_a_viewer](https://twitch.tv/just_a_viewer) `Gifted`
-- [seemiracle](https://twitch.tv/seemiracle) `Gifted`
-- [teelihis](https://twitch.tv/teelihis) `Gifted`
+- [roberttables](https://twitch.tv/roberttables) `Gifted by cpayette`
+- [LilyHazel](https://twitch.tv/lilyhazel) `Gifted by cpayette`
+- [veresdave](https://twitch.tv/veresdave) `Gifted by IAmNotMyself`
+- [cmgriffing](https://twitch.tv/cmgriffing) `Gifted by IAmNotMyself`
+- [just_a_viewer](https://twitch.tv/just_a_viewer) `Gifted by IAmNotMyself`
+- [seemiracle](https://twitch.tv/seemiracle) `Gifted by IAmNotMyself`
+- [teelihis](https://twitch.tv/teelihis) `Gifted by IAmNotMyself`
 
 ### Cheers
 
 | Compadre            | Bits        |
 | ---                 | ---         |
-| [cpayette](https://twitch.tv/cpayette) | 100 |
+| [cpayette](https://twitch.tv/cpayette) | 200 |
 | [BlakeTheSpoonbender](https://twitch.tv/blakethespoonbender) | 700 |
 | [RamblingGeek](https://twitch.tv/ramblinggeek) | 241 |
 
@@ -81,6 +76,7 @@ replay:
 | Marauder            | Accomplices |
 | ---                 | ---         |
 | [CodebaseAlpha](https://twitch.tv/codebasealpha) | 4 |
+| [csharpfritz](https://twitch.tv/csharpfritz) | 78 |
 
 ### Moderators
 
@@ -111,4 +107,3 @@ replay:
 - [Clarkio](https://twitch.tv/clarkio)
 - [phrakberg](https://twitch.tv/phrakberg)
 - [roberttables](https://twitch.tv/roberttables)
-
