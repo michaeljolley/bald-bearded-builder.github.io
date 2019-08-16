@@ -32,7 +32,7 @@ replay: https://youtu.be/GKn2y8U0FBY
 | [00:56]({{page.replay}}?t=3373.027) | special guest info |
 | [03:13]({{page.replay}}?t=11626.177) | Starting to work on the Aviary project |
 | [03:53]({{page.replay}}?t=14000.475) | its all going off now |
-| [04:09]({{page.replay}}?t=14945.366) | Wrapping up and raid to [](https://twitch.tv/callowcreation) |
+| [04:09]({{page.replay}}?t=14945.366) | Wrapping up and raid to [callowcreation](https://twitch.tv/callowcreation) |
 
 ---
 
