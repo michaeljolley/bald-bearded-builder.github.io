@@ -2,11 +2,11 @@
 layout: post
 date: 2019-08-15 18:08
 title: "Modifying our chat overlay & adding GitHub integration"
-image:
-description: ""
+image: https://user-images.githubusercontent.com/1228996/63200528-3a030c00-c047-11e9-85aa-31208afff4bc.png
+description: "Working to add an integration with the GitHub API to our chatbot"
 comments: true
-tags: [twitch, stream]
-replay:
+tags: [twitch, stream, github, nodejs, javascript, typescript]
+replay: https://youtu.be/E-MsCYsSBGw
 ---
 
 <img src="{{page.image}}"/>
@@ -19,10 +19,14 @@ replay:
 
 ### Segments
 
-| Timestamp | Topic
-| ---       | ---
-| [00:18]({{page.replay}}?t=1091.483) | Candle - Winner Whiskey (after 2 failure to light) |
-| [02:37]({{page.replay}}?t=9433.841) | SFX RIP |
+| Timestamp | Topic                                                     |
+| ---       | ---                                                       |
+| 00:07     | Kicking it off                                            |
+| 00:18     | Candle - Winner Whiskey (after 2 failures to light)       |
+| 00:19     | Showing off upcoming design changes                       |
+| 00:25     | Discussing IO and how we'll use him with the chromakey    |
+| 00:38     | Starting to work on integrating GitHub                    |
+| 04:23     | Wrapping up and raid to [Lana_Lux](https://twitch.tv/lana_lux)    |
 
 ---
 
@@ -42,8 +46,8 @@ replay:
 
 ### Things We Learned
 
-- [parithon](https://twitch.tv/parithon): shared https://www.nerdfonts.com/ for awesome icon and fonts for your ide or terminal 
-- [rene_a_77](https://twitch.tv/rene_a_77): suggested the font chat command idea 
+- [parithon](https://twitch.tv/parithon): shared [https://www.nerdfonts.com/](https://www.nerdfonts.com/) for awesome icon and fonts for your ide or terminal
+- [rene_a_77](https://twitch.tv/rene_a_77): suggested the font chat command idea
 
 ---
 
@@ -51,7 +55,7 @@ replay:
 
 ### Subscribers
 
-- [JonathanDelfraisse](https://twitch.tv/jonathandelfraisse) `Gifted`
+- [JonathanDelfraisse](https://twitch.tv/jonathandelfraisse)
 
 ### Cheers
 
@@ -96,4 +100,3 @@ replay:
 - [CodeStencil](https://twitch.tv/codestencil)
 - [parithon](https://twitch.tv/parithon)
 - [rene_a_77](https://twitch.tv/rene_a_77)
-
