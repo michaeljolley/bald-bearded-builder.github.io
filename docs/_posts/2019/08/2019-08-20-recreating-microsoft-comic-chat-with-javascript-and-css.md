@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2019-08-20 18:08
-title: "Generating SVG's auto-magically from and using CSS to turn chat into a comic strip"
-image:
-description: ""
+title: "Recreating Microsoft Comic Chat with JavaScript and CSS to turn chat into a comic strip"
+image: https://user-images.githubusercontent.com/1228996/63616616-90270080-c5ad-11e9-984a-481b5284c69b.png
+description: "We worked to recreate Microsoft Comic Chat in HTML/CSS/JavaScript to generate comic strips based off Twitch chat."
 comments: true
-tags: [twitch, stream]
-replay:
+tags: [twitch, stream, javascript, css, html, comic, chat]
+replay: https://youtu.be/KfLTlxgHPcc
 ---
 
 <img src="{{page.image}}"/>
@@ -21,8 +21,12 @@ replay:
 
 | Timestamp | Topic
 | ---       | ---
-| [00:58]({{page.replay}}?t=3488.127) | excited giddiness since start |
-| [02:14]({{page.replay}}?t=8080.002) | Wrapping up and raid to [roberttables](https://twitch.tv/roberttables) |
+| [00:07]({{page.replay}}?t=420)      | Kicking it off                                                          |
+| [00:17]({{page.replay}}?t=1041)     | Voting for the Candle to Code By                                        |
+| [00:25]({{page.replay}}?t=1500)     | Showing how to use OBS as a video source for Microsoft Teams            |
+| [00:30]({{page.replay}}?t=1800)     | Discussing the old Microsoft Chat application                           |
+| [01:00]({{page.replay}}?t=3600)     | Starting to build a comic chat for our Twitch chat with codesandbox.io  |
+| [02:14]({{page.replay}}?t=8080.002) | Wrapping up and raid to [roberttables](https://twitch.tv/roberttables)  |
 
 ---
 
@@ -34,6 +38,7 @@ replay:
 
 ### Goals
 
+- [x] Start working on our MS Comic Chat clone for Twitch chat
 
 ---
 
@@ -41,7 +46,7 @@ replay:
 
 ### Subscribers
 
-- [dot_commie](https://twitch.tv/dot_commie) (5 mo) `Gifted`
+- [dot_commie](https://twitch.tv/dot_commie) (5 mo)
 
 ### Cheers
 
@@ -81,4 +86,3 @@ replay:
 - [IAmNotMyself](https://twitch.tv/iamnotmyself)
 - [phrakberg](https://twitch.tv/phrakberg)
 - [CopperBeardy](https://twitch.tv/copperbeardy)
-
