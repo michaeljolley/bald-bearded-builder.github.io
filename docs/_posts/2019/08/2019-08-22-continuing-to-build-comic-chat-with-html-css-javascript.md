@@ -2,11 +2,11 @@
 layout: post
 date: 2019-08-22 18:08
 title: "Continuing to build comic chat with HTML/CSS/JavaScript"
-image:
-description: ""
+image: https://user-images.githubusercontent.com/1228996/63617457-1f80e380-c5af-11e9-9fd0-6a116912fe60.png
+description: "We're continuing to improve our comic chat interface for chat and actually adding it to our bot."
 comments: true
-tags: [twitch, stream]
-replay:
+tags: [twitch, stream, javascript, css, chat, comic]
+replay: https://youtu.be/jko-punrksY
 ---
 
 <img src="{{page.image}}"/>
@@ -21,11 +21,12 @@ replay:
 
 | Timestamp | Topic
 | ---       | ---
-| [00:06]({{page.replay}}?t=417.51) | Kicking it off |
-| [00:27]({{page.replay}}?t=1625.404) | Working on the chat bubbles for our comic strip |
-| [00:28]({{page.replay}}?t=1684.701) | get squirrel again |
-| [00:28]({{page.replay}}?t=1704.913) | shameless advertizing |
-| [02:50]({{page.replay}}?t=10258.642) | Wrapping up and raid to [sorskoot](https://twitch.tv/sorskoot) |
+| [00:06]({{page.replay}}?t=417.51)     | Kicking it off                                                    |
+| [00:27]({{page.replay}}?t=1625.404)   | Working on the chat bubbles for our comic strip                   |
+| [00:28]({{page.replay}}?t=1684.701)   | Getting squirreled again                                          |
+| [00:28]({{page.replay}}?t=1704.913)   | Shameless advertizing                                             |
+| [01:58]({{page.replay}}?t=7080)       | Special guest-host Nate joins us for a bit                        |
+| [02:50]({{page.replay}}?t=10258.642)  | Wrapping up and raid to [sorskoot](https://twitch.tv/sorskoot)    |
 
 ---
 
@@ -37,10 +38,12 @@ replay:
 
 ### Goals
 
+- [x] Continuing to improve our MS Comic chat overlay
+- [x] Add the comic chat as an overlay in our IO chat bot
 
 ### Things We Learned
 
-- [Julll](https://twitch.tv/julll): shared https://www.sassmeister.com for compiling sass in the browser 
+- [Julll](https://twitch.tv/julll): shared https://www.sassmeister.com for compiling sass in the browser
 
 ---
 
@@ -48,7 +51,7 @@ replay:
 
 ### Subscribers
 
-- [RamblingGeek](https://twitch.tv/ramblinggeek) (6 mo) `Gifted`
+- [RamblingGeek](https://twitch.tv/ramblinggeek) (6 mo)
 
 ### Cheers
 
@@ -84,4 +87,3 @@ replay:
 - [FBoucheros](https://twitch.tv/fboucheros)
 - [ruandersMSFT](https://twitch.tv/ruandersmsft)
 - [Julll](https://twitch.tv/julll)
-
