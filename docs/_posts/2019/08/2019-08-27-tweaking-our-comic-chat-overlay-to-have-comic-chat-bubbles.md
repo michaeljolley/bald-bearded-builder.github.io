@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2019-08-27 18:08
-title: "Adding features to our Node.js chat bot services"
-image:
-description: ""
+title: "Making improvements to our comic chat overlay"
+image: https://user-images.githubusercontent.com/1228996/63814847-f38b9800-c8f7-11e9-8b42-24934187ef91.png
+description: "Added chat bubbles that look hand-drawn and the ability to handle larger messages."
 comments: true
-tags: [twitch, stream]
-replay:
+tags: [twitch, stream, javascript, css, html, chat, comic]
+replay: https://youtu.be/xQPFNAwSvQc
 ---
 
 <img src="{{page.image}}"/>
@@ -21,13 +21,12 @@ replay:
 
 | Timestamp | Topic
 | ---       | ---
-| [00:06]({{page.replay}}?t=364.111) | Kicking it off |
-| [00:06]({{page.replay}}?t=387.337) | bad improvisation of a horrible song |
-| [00:06]({{page.replay}}?t=402.694) | No music :) |
-| [00:07]({{page.replay}}?t=435.224) | Heather Black T-shirt with embroidered logo on left chest area |
-| [00:09]({{page.replay}}?t=575.791) | @theMichaelJolley coins coderushers |
-| [00:15]({{page.replay}}?t=922.866) | Candle Winner - Tobacco |
-| [04:12]({{page.replay}}?t=15157.553) | Wrapping up and raid to [sudokid](https://twitch.tv/sudokid) |
+| [00:06]({{page.replay}}?t=364.111)    | Kicking it off |
+| [00:06]({{page.replay}}?t=387.337)    | Bad improvisation of a horrible song |
+| [00:09]({{page.replay}}?t=575.791)    | @theMichaelJolley coins coderushers |
+| [00:15]({{page.replay}}?t=922.866)    | Candle Winner - Tobacco |
+| [00:20]({{page.replay}}?t=1200)       | Starting to work on our comic chat overlay |
+| [04:12]({{page.replay}}?t=15157.553)  | Wrapping up and raid to [SudoKid](https://twitch.tv/sudokid) |
 
 ---
 
@@ -47,10 +46,10 @@ replay:
 
 ### Subscribers
 
-- [retro_crt](https://twitch.tv/retro_crt) (4 mo) `Gifted`
-- [mholloway24](https://twitch.tv/mholloway24) (3 mo) `Gifted`
-- [XanPandaTV](https://twitch.tv/xanpandatv) `Gifted`
-- [IAmNotMyself](https://twitch.tv/iamnotmyself) (6 mo) `Gifted`
+- [retro_crt](https://twitch.tv/retro_crt) (4 mo)
+- [mholloway24](https://twitch.tv/mholloway24) (3 mo)
+- [XanPandaTV](https://twitch.tv/xanpandatv)
+- [IAmNotMyself](https://twitch.tv/iamnotmyself) (6 mo)
 
 ### Raids
 
@@ -86,4 +85,3 @@ replay:
 - [roberttables](https://twitch.tv/roberttables)
 - [CodingGorilla](https://twitch.tv/codinggorilla)
 - [MusicalBookworm](https://twitch.tv/musicalbookworm)
-
