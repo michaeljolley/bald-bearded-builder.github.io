@@ -1,12 +1,12 @@
 ---
 layout: post
 date: 2019-08-29 18:08
-title: "Let's give chatters unique avatars in our comic chat overlays"
-image:
-description: ""
+title: "Giving chatters unique avatars in our comic chat overlays"
+image: https://user-images.githubusercontent.com/1228996/63977801-5311b100-ca7a-11e9-8f8c-0fdf51e8c372.png
+description: "We're adding more generic avatars and also adding the ability for users to have their own avatar."
 comments: true
-tags: [twitch, stream]
-replay:
+tags: [twitch, stream, javascript, css, html, chat]
+replay: https://youtu.be/1Wmw5NFN4kI
 ---
 
 <img src="{{page.image}}"/>
@@ -21,10 +21,11 @@ replay:
 
 | Timestamp | Topic
 | ---       | ---
+| [00:05]({{page.replay}}?t=600) | Kicking it off |
 | [00:17]({{page.replay}}?t=1055.393) | Candle Winner - Unicorn |
 | [00:27]({{page.replay}}?t=1647.11) | @theMichaelJolley trolls his own chat |
-| [01:03]({{page.replay}}?t=3804.787) | debating the merits of various mechanical keyboards |
-| [01:07]({{page.replay}}?t=4067.978) | start coding |
+| [01:03]({{page.replay}}?t=3804.787) | Debating the merits of various mechanical keyboards |
+| [01:07]({{page.replay}}?t=4067.978) | Start coding |
 | [02:37]({{page.replay}}?t=9476.977) | Wrapping up and raid to [roberttables](https://twitch.tv/roberttables) |
 
 ---
@@ -37,6 +38,8 @@ replay:
 
 ### Goals
 
+- [x] Adding more generic characters to chat
+- [x] Add ability for viewers to have their own avatar
 
 ---
 
@@ -44,7 +47,7 @@ replay:
 
 ### Subscribers
 
-- [Clarkio](https://twitch.tv/clarkio) (5 mo) `Gifted`
+- [Clarkio](https://twitch.tv/clarkio) (5 mo)
 
 ### Cheers
 
@@ -83,4 +86,3 @@ replay:
 - [JTsom](https://twitch.tv/jtsom)
 - [CopperBeardy](https://twitch.tv/copperbeardy)
 - [roberttables](https://twitch.tv/roberttables)
-
