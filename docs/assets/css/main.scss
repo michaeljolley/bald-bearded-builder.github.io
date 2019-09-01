@@ -151,7 +151,7 @@
 			.alignleft { float: left; margin: 20px 30px 20px 0; }
 			.alignright { float: right; margin: 20px 0 20px 20px; }
 			.aligncenter { clear: both; margin: 0 auto 20px; }
-			
+
 			figure {
 				margin: 10px;
 
@@ -176,12 +176,12 @@
 							&:first-of-type { box-shadow: none; }
 							&.share-facebook {
 								&:hover { background: $brand-facebook; }
-					
+
 								a svg { fill: $brand-facebook; }
 							}
 							&.share-twitter {
 								&:hover { background: $brand-twitter; }
-								
+
 								a svg { fill: $brand-twitter; }
 							}
 							&:hover a svg { fill: $white; }
@@ -217,5 +217,25 @@
 .not-found { text-align: center;
 	&.post { padding: 40px; font-size: 16px; }
 }
-  
+
+.user {
+
+	display: flex;
+
+	img {
+		width: 20px;
+		height: 20px;
+		border: 2px solid #ac85c4;
+		margin-right: 5px;
+		background: #000;
+		border-radius: 50%;
+	}
+
+	span {
+		margin-top: 3px;
+	}
+}
+
+
+
 @import "responsive";
