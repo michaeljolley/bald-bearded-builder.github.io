@@ -221,21 +221,44 @@
 .user {
 
 	display: flex;
+	margin: 5px 0 !important;
 
 	img {
-		width: 20px;
-		height: 20px;
+		width: 30px;
+		height: 30px;
 		border: 2px solid #ac85c4;
-		margin-right: 5px;
+		margin: 0 5px 0 0;
 		background: #000;
 		border-radius: 50%;
 	}
 
 	span {
-		margin-top: 3px;
+		margin-top: 2px;
 	}
 }
 
+table.user {
+
+	width: 100%;
+
+	td {
+		width: 25%;
+		display: flex;
+
+		span {
+			margin-top: 2px;
+		}
+	}
+
+	img.profile {
+		width: 30px;
+		height: 30px;
+		border: 2px solid #ac85c4;
+		margin: 0 5px 0 0;
+		background: #000;
+		border-radius: 50%;
+	}
+}
 
 
 @import "responsive";
