@@ -67,8 +67,7 @@ replay: https://youtu.be/7nNML4-DeHU
 
 ### Contributors
 
-<table class="users">
-  <tbody>
+<table class="user">
     <tr>
       <td><img class="profile" src="https://static-cdn.jtvnw.net/jtv_user_pictures/908fd818-1fbe-4b44-8633-dfc6bec175c9-profile_image-300x300.png"/><span>Flyken</span></td>
       <td><img class="profile" src="https://static-cdn.jtvnw.net/jtv_user_pictures/3bdd5c96-e43c-4745-b3fc-d969f8f55121-profile_image-300x300.jpeg"/><span>FBoucheros</span></td>
@@ -104,5 +103,4 @@ replay: https://youtu.be/7nNML4-DeHU
 <td><img class="profile" src="https://static-cdn.jtvnw.net/user-default-pictures/b83b1794-7df9-4878-916c-88c2ad2e4f9f-profile_image-300x300.jpg"/><span>lotsoftzatziki</span></td>
 <td><img class="profile" src="https://static-cdn.jtvnw.net/jtv_user_pictures/abd243dc-3790-4a73-b7b4-1269f89ce083-profile_image-300x300.png"/><span>parithon</span></td>
     </tr>
-  </tbody>
 </table>

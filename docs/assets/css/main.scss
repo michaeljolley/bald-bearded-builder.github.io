@@ -241,9 +241,12 @@ table.user {
 
 	width: 100%;
 
+	tr {
+		display: flex;
+	}
+
 	td {
 		width: 25%;
-		display: flex;
 
 		span {
 			margin-top: 2px;
