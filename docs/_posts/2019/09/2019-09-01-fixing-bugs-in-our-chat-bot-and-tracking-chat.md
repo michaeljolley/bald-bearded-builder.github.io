@@ -2,11 +2,11 @@
 layout: post
 date: 2019-09-01 17:09
 title: "Playing with Node.js and making chat more interactive"
-image:
-description: ""
+image: https://user-images.githubusercontent.com/1228996/64084956-7e540480-ccf5-11e9-8ec0-72a0d750574a.png
+description: "Fixed a few bugs with sound clips playing on alerts and tracking chat in MongoDB"
 comments: true
-tags: [twitch, stream]
-replay:
+tags: [twitch, stream, javascript, mongo]
+replay: https://youtu.be/7nNML4-DeHU
 ---
 
 <img src="{{page.image}}"/>
@@ -21,9 +21,9 @@ replay:
 
 | Timestamp | Topic
 | ---       | ---
+| [00:05]({{page.replay}}?t=600)      | Kicking it off          |
 | [00:22]({{page.replay}}?t=1324.056) | Candle Winner - Unicorn |
 | [00:26]({{page.replay}}?t=1615.302) | Starting to write some code |
-| [02:38]({{page.replay}}?t=9524.969) | Wrapping up and raid to [cmgriffing](https://twitch.tv/cmgriffing) |
 | [02:39]({{page.replay}}?t=9578.431) | Wrapping up and raid to [luckynos7evin](https://twitch.tv/luckynos7evin) |
 
 ---
@@ -36,7 +36,7 @@ replay:
 
 ### Goals
 
-- [ ] Flag chatters as contributors on the stream
+- [x] Flag chatters as contributors on the stream
 
 ---
 
@@ -44,19 +44,17 @@ replay:
 
 ### Subscribers
 
-- [phrakberg](https://twitch.tv/phrakberg) (6 mo) `Gifted`
-- [Lannonbr](https://twitch.tv/lannonbr) (4 mo) `Gifted`
-- [sorskoot](https://twitch.tv/sorskoot) (5 mo) `Gifted`
-- [Taumee412](https://twitch.tv/taumee412) `Gifted`
+- [phrakberg](https://twitch.tv/phrakberg) (6 mo)
+- [Lannonbr](https://twitch.tv/lannonbr) (4 mo)
+- [sorskoot](https://twitch.tv/sorskoot) (5 mo)
+- [Taumee412](https://twitch.tv/taumee412)
 
 ### Cheers
 
 | Compadre            | Bits        |
 | ---                 | ---         |
-| [codingisundercover](https://twitch.tv/codingisundercover) | 1 |
-| [phrakberg](https://twitch.tv/phrakberg) | 2 |
-| [codingisundercover](https://twitch.tv/codingisundercover) | 2 |
-| [phrakberg](https://twitch.tv/phrakberg) | 8 |
+| [codingisundercover](https://twitch.tv/codingisundercover) | 3 |
+| [phrakberg](https://twitch.tv/phrakberg) | 10 |
 | [roberttables](https://twitch.tv/roberttables) | 1 |
 
 ### Moderators
