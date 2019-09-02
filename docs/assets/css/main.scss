@@ -241,12 +241,17 @@ table.user {
 
 	width: 100%;
 
-	tr {
-		display: flex;
+	tbody {
+		width: 100%;
+
+		tr {
+			display: flex;
+		}
 	}
 
 	td {
 		width: 25%;
+		display: flex;
 
 		span {
 			margin-top: 2px;
@@ -254,14 +259,13 @@ table.user {
 	}
 
 	img.profile {
-		width: 30px;
-		height: 30px;
+		width: 50px;
+		height: 50px;
 		border: 2px solid #ac85c4;
 		margin: 0 5px 0 0;
 		background: #000;
 		border-radius: 50%;
 	}
 }
-
 
 @import "responsive";

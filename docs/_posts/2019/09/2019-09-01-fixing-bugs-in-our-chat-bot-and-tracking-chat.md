@@ -69,7 +69,8 @@ replay: https://youtu.be/7nNML4-DeHU
 
 <table class="user">
     <tr>
-      <td><img class="profile" src="https://static-cdn.jtvnw.net/jtv_user_pictures/908fd818-1fbe-4b44-8633-dfc6bec175c9-profile_image-300x300.png"/><span>Flyken</span></td>
+      <td><img class="profile" src="https://static-cdn.jtvnw.net/jtv_user_pictures/908fd818-1fbe-4b44-8633-dfc6bec175c9-profile_image-300x300.png"/><span>Flyken<br/>
+      <i class="fab fa-twitch"></i> <i class="fab fa-twitter"></i> <i class="fab fa-github"></i></span></td>
       <td><img class="profile" src="https://static-cdn.jtvnw.net/jtv_user_pictures/3bdd5c96-e43c-4745-b3fc-d969f8f55121-profile_image-300x300.jpeg"/><span>FBoucheros</span></td>
       <td><img class="profile" src="https://static-cdn.jtvnw.net/jtv_user_pictures/20bd3f0a-ce68-4f5c-a9bf-f61b950be3d2-profile_image-300x300.png"/><span>IAmNotMyself</span></td>
       <td><img class="profile" src="https://static-cdn.jtvnw.net/jtv_user_pictures/8e4eab31-0a66-4b1a-a0df-ca962e4a9b8e-profile_image-300x300.jpeg"/><span>Lannonbr</span></td>
