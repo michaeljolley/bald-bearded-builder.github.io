@@ -73,8 +73,7 @@ replay: https://youtu.be/7nNML4-DeHU
 
 ### Contributors
 
-
-<table>
+<table class="user">
   <tbody>
     <tr>
       <td>
