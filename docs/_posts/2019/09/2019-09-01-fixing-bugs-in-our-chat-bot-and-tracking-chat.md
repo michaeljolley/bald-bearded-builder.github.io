@@ -72,7 +72,6 @@ replay: https://youtu.be/7nNML4-DeHU
         </span>
       </td>
     </tr>
-    </tr>
   </tbody>
 </table>
 ### Cheers
