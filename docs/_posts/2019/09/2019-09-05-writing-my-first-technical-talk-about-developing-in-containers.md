@@ -2,11 +2,11 @@
 layout: post
 date: 2019-09-05 17:09
 title: "Writing my first technical talk about developing in containers"
-image:
-description: ""
+image: https://user-images.githubusercontent.com/1228996/64449649-0ba4a980-d0a6-11e9-8130-914fdb3b6bfb.png
+description: "Outlining and planning my first talk to be given in a couple weeks about using Visual Studio Code & Docker to develop within containers."
 comments: true
-tags: [twitch, stream]
-replay:
+tags: [twitch, stream, containers, talk, planning]
+replay: https://youtu.be/0nMdnPhE8ms
 ---
 
 <img src="{{page.image}}"/>
@@ -21,8 +21,12 @@ replay:
 
 | Timestamp | Topic
 | ---       | ---
-| [00:08]({{page.replay}}?t=486.644) | Kicking it off |
-| [04:41]({{page.replay}}?t=16909.619) | Wrapping up and raid to [codephobia](https://twitch.tv/codephobia) |
+| [00:08]({{page.replay}}?t=486.644)      | Kicking it off |
+| [00:23]({{page.replay}}?t=1463)         | Discussing the topic of the talk
+| [00:35]({{page.replay}}?t=2100)         | Talking through points we want to cover
+| [00:59]({{page.replay}}?t=3540)         | Starting to practice &amp; test our demos
+| [00:23]({{page.replay}}?t=10500)        | Back to writing the outline of the talk
+| [04:41]({{page.replay}}?t=16909.619)    | Wrapping up and raid to [codephobia](https://twitch.tv/codephobia) |
 
 ---
 
@@ -34,14 +38,14 @@ replay:
 
 ### Goals
 
-- [ ] Create an outline for the talk
-- [ ] Build out main points of each section of talk
+- [x] Create an outline for the talk
+- [x] Build out main points of each section of talk
+- [x] Flesh out each section of talk
 - [ ] Flesh out intro/outro
-- [ ] Flesh out each section of talk
 
 ### Things We Learned
 
-- [roberttables](https://twitch.tv/roberttables): shared https://github.com/jessfraz/dockerfiles for dockerfiles of apss you may not think can be containerized 
+- [roberttables](https://twitch.tv/roberttables): shared https://github.com/jessfraz/dockerfiles for dockerfiles of apss you may not think can be containerized.
 
 ---
 
@@ -469,4 +473,3 @@ replay:
     </tr>
   </tbody>
 </table>
-
