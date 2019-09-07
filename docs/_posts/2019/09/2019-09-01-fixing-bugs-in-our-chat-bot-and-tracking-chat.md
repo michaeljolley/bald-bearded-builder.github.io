@@ -44,36 +44,38 @@ replay: https://youtu.be/7nNML4-DeHU
 
 ### Subscribers
 
-<table class="user">
-  <tbody>
-    <tr>
-      <td>
-        <img class="profile" src="https://static-cdn.jtvnw.net/jtv_user_pictures/3c435956-3fc3-4ccd-bac5-1c4e1671500b-profile_image-300x300.png"/>
-        <span>phrakberg<br/>
-        <a href="https://twitch.tv/phrakberg" target="_blank"><i class="fab fa-twitch" aria-hidden="true"></i></a>
-        </span>
-      </td>
-      <td>
+<div class="users">
+
+  <div class="user">
+      <img class="profile" src="https://static-cdn.jtvnw.net/jtv_user_pictures/3c435956-3fc3-4ccd-bac5-1c4e1671500b-profile_image-300x300.png"/>
+      <span>phrakberg<br/>
+      <a href="https://twitch.tv/phrakberg" target="_blank"><i class="fab fa-twitch" aria-hidden="true"></i></a>
+      </span>
+  </div>
+
+  <div class="user">
         <img class="profile" src="https://static-cdn.jtvnw.net/jtv_user_pictures/8e4eab31-0a66-4b1a-a0df-ca962e4a9b8e-profile_image-300x300.jpeg"/>
         <span>Lannonbr<br/>
         <a href="https://twitch.tv/lannonbr" target="_blank"><i class="fab fa-twitch" aria-hidden="true"></i></a>
         </span>
-      </td>
-      <td>
+  </div>
+
+  <div class="user">
         <img class="profile" src="https://static-cdn.jtvnw.net/jtv_user_pictures/958a22b1-e9e5-4390-8843-98d9def72a35-profile_image-300x300.png"/>
         <span>sorskoot<br/>
         <a href="https://twitch.tv/sorskoot" target="_blank"><i class="fab fa-twitch" aria-hidden="true"></i></a>
         </span>
-      </td>
-      <td>
+  </div>
+
+  <div class="user">
         <img class="profile" src="https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-300x300.jpg"/>
         <span>Taumee412<br/>
         <a href="https://twitch.tv/taumee412" target="_blank"><i class="fab fa-twitch" aria-hidden="true"></i></a>
         </span>
-      </td>
-    </tr>
-  </tbody>
-</table>
+  </div>
+
+</div>
+
 ### Cheers
 
 <table class="user">
